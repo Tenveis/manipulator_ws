@@ -24,6 +24,7 @@ setup(
         "console_scripts": [
             "simple_publisher = nodes.simple_publisher_node:main",
             "simple_subscriber = nodes.simple_subscriber_node:main",
+            "simple_parameter = nodes.simple_parameter_node:main",
         ],
     },
 )

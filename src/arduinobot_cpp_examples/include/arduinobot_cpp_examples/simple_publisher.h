@@ -10,11 +10,11 @@
 #define INCLUDE_SIMPLE_PUBLISHER_H
 #pragma once
 
-// ros-lib
+///< ros-lib
 #include <rclcpp/rclcpp.hpp>
 #include <std_msgs/msg/string.hpp>
 
-// std-lib
+///< std-lib
 #include <stdint.h>
 
 /**
